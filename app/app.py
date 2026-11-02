@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🎓 Student Performance Prediction")
+st.title("🎓 Welcome to Student Performance Prediction")
 st.write("Predict student exam marks using Machine Learning.")
 
 # Load model
